@@ -20,9 +20,17 @@ section#banner {
   text-align: center;
 }
 
+section#menu {
+  text-align: center;
+}
+
+section#menu {
+  background-image: url(http://cache1.asset-cache.net/xc/179023303.jpg?v=2&c=IWSAsset&k=2&d=0spNMufGOkpsgD32wPQcsXQlFEDoSPX2OpY5aZpHjbw1);
+}
+
 section#menu li {
   display: inline;
-  text-align: center;
+  padding: 10px;
 }
 
 img {
