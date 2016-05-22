@@ -8,32 +8,33 @@ a:visited {
   color: #8b008b;
 }
 
-h4 {
+div#sub-banner {
   border: 2px ;
   border-style: solid;
-  border-color: #8b008b;
-  padding: 5px;
+  border-color: #cd853f;
+  padding: 2px;
   text-align: center;
 }
 
-section#banner {
+div.banner {
   text-align: center;
 }
 
-section#menu {
+div.menu {
   text-align: center;
   background-image: url(https://www.wallsandfloors.co.uk/admin/uploads/ZoomImageTerracotta1306484566.jpg);
 }
 
-section#menu li {
+div.menu li {
   display: inline;
   padding: 10px;
   font-weight: bold;
 }
 
-caption {
-  width: 500px;
-  text-align: left;
+div#image-caption {
+  width: 50px;
+  background-color: blue;
+  text-align: center;
   padding-left: 10px;
   font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;;
 }
